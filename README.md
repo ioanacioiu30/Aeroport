@@ -1,8 +1,7 @@
 
 #Equipe :
-#Cioiu Ioana Dumitrina
-#Fainaru Ioana Gabriela
-#Jugarean Carmen
+#Cioiu Ioana Dumitrina Fainaru Ioana Gabriela Jugarean Carmen
+
 
 #Theme : Simulateur traffique aeroportuaire
 
