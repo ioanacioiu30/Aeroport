@@ -1,7 +1,10 @@
 
-Equipe : Cioiu Ioana Dumitrina, Fainaru Ioana Gabriela, Jugarean Carmen
-Theme : Simulateur traffique aeroportuaire
- Solution : 
+#Equipe : Cioiu Ioana Dumitrina, Fainaru Ioana Gabriela, Jugarean Carmen
+
+#Theme : Simulateur traffique aeroportuaire
+
+#Solution : 
+
 Le programme est composee de 4 processeurs et 2 memoires , ca veut dire 4 piste et 2 tableaux affichant les departs et les arrives des avions. Pour que le programme fonctionne, les processus de depart et arrive doivent etre syncronisee . Dans une piste , l'avion qui veut atterir doit attendre que l'avion qui se trouve deja sur la piste decolle . 
 Sur l'interface graphique, on voit le deroulement du processus donc on observe le pourcentage du depart / arrivee .Les tableaux sont compose de trois colonnes la premiere c'est avec le nom du compagnie aerienne et l'ID de chaque vol , la deuxieme concerne la priorite de chaque avion, et la derniere le temps estimee pour la duree du processus entier.Nous avons, aussi, un glisseur qui augment ou diminue la vitesse de simulation.
  Le button start permet de commencer la simulation, et pour l'arret on a le button stop. Pour voir l'interface graphique du programme,on ouvre le command prompt de windows (cmd), avec la commande "python tema1_main.py".
